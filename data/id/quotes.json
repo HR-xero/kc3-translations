@@ -225,5 +225,19 @@
         "51": "2100. Teitoku, Kumarinko ngasih beberapa kari yg dia buat ke aku, Nah, Ayo makan!",
         "52": "2200. Makan bersama dengan Teitoku membuat kari ini terasa enak. Mungkin akan kumakan tiap hari",
         "53": "2300. Teitoku, Semuanya sudah kita selesaikan, kan?"
+    },
+    "83": {
+        "Komentar": " Tambahan voice season pada Akagi",
+        
+        "Summer 6547": "Ah, Nona Kaga. Musim panas hampir tiba, ya? He? Baju renang baru? Saya masih belum beli ...",
+        "6547": "Laksamana, sekarang musim gugur, yang berarti makan. Terdapat banyak sekali makanan lezat di musim ini  ... pasti sangat menyenangkan\u266a"
+    },
+    "187":{
+    	"Komentar": " Tambahan voice season pada Akashi Kai",
+    
+    	"Summer 6547": "Musim panas, ya? Saya mau pakai baju renang juga! Laksamana, Anda boleh kok membelikan Saya \"hihi\"!",
+        "6547": "Musim gugur telah tiba ya, musim ini membuat perut jadi lapar. Mbak Mamiya kemarilah~"
     }
+    
+    
 }
